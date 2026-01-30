@@ -114,34 +114,6 @@ Designed for:
 
 ---
 
-# 📸 Screenshots
-
-## 💻 Web Screens
-
-![screens/web-1.png] 
-![screens/web-2.png]  
-![screens/web-3.png]  
-![screens/web-4.png]  
-![screens/web-5.png]  
-![screens/web-6.png] 
-![screens/web-7.png]  
-![screens/web-8.png]
-
----
-
-## 📱 Mobile Screens
-
-![screens/mobile-1.png]  
-![screens/mobile-2.png]  
-![screens/mobile-3.png]  
-![screens/mobile-4.png]  
-![screens/mobile-5.png]  
-![screens/mobile-6.png]  
-![screens/mobile-7.png]  
-![screens/mobile-8.png]
-
----
-
 ## 🏁 Conclusion
 
 This project reflects a practical understanding of how real eCommerce platforms work, combining UI aesthetics with structured UX thinking to create a complete shopping experience.
