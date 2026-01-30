@@ -118,27 +118,27 @@ Designed for:
 
 ## 💻 Web Screens
 
-![Home Page](screens/web-1.png)  
-![Mens Page](screens/web-2.png)  
-![Womens Page](screens/web-3.png)  
-![Kids Page](screens/web-4.png)  
-![About](screens/web-5.png)  
-![Contact](screens/web-6.png)  
-![Product Detail](screens/web-7.png)  
-![Checkout](screens/web-8.png)
+![screens/web-1.png] 
+![screens/web-2.png]  
+![screens/web-3.png]  
+![screens/web-4.png]  
+![screens/web-5.png]  
+![screens/web-6.png] 
+![screens/web-7.png]  
+![screens/web-8.png]
 
 ---
 
 ## 📱 Mobile Screens
 
-![Home Mobile](screens/mobile-1.png)  
-![Mens Mobile](screens/mobile-2.png)  
-![Womens Mobile](screens/mobile-3.png)  
-![Kids Mobile](screens/mobile-4.png)  
-![About Mobile](screens/mobile-5.png)  
-![Contact Mobile](screens/mobile-6.png)  
-![Product Mobile](screens/mobile-7.png)  
-![Checkout Mobile](screens/mobile-8.png)
+![screens/mobile-1.png]  
+![screens/mobile-2.png]  
+![screens/mobile-3.png]  
+![screens/mobile-4.png]  
+![screens/mobile-5.png]  
+![screens/mobile-6.png]  
+![screens/mobile-7.png]  
+![screens/mobile-8.png]
 
 ---
 
