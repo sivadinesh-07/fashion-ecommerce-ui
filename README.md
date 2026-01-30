@@ -1,4 +1,6 @@
 # 🛍️ Harness – Fashion E-Commerce UI/UX Case Study
+<img width="1536" height="1024" alt="ChatGPT Image Jan 30, 2026, 10_06_40 PM" src="https://github.com/user-attachments/assets/83188b3d-b536-4f04-88bb-8d028a90694f" />
+
 
 A complete **end-to-end fashion eCommerce website design** created in **Figma**, covering the full shopping journey from browsing products to checkout. This project focuses on usability, modern UI patterns, and a conversion-friendly shopping experience.
 
@@ -117,3 +119,4 @@ Designed for:
 ## 🏁 Conclusion
 
 This project reflects a practical understanding of how real eCommerce platforms work, combining UI aesthetics with structured UX thinking to create a complete shopping experience.
+
